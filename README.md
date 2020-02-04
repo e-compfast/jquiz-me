@@ -1,2 +1,2 @@
-# jquiz-me
+# PENGEMBANGAN APLIKASI QUIZ WEB APP
 Source code quiz web app
